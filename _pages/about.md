@@ -39,5 +39,3 @@ My primary research interests include:
 My research philosophy is rooted in **mathematical rigor**. I am deeply interested in developing quantum learning theory based on solid mathematical foundations and exploring the synergy between classical and quantum computing. Ultimately, my long-term goal is to establish **comprehensive theoretical foundations for Quantum Machine Learning (QML)**.  
 
 *Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027.
-
-*Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027.
