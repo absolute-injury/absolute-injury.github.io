@@ -5,6 +5,6 @@ cv_pdf: /assets/pdf/resume.pdf # path to your CV PDF file
 email: abin1125@snu.ac.kr # your email address
 rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: HA7JSkwAAAAJ # your Google Scholar ID
-linkedin_userid: stilljaehun7788
+linkedin_username: stilljaehun7788
 medium_username: owlflaveredcarpet
-githun_userid: absolute-injury
+githun_username: absolute-injury
