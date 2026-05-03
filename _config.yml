@@ -6,15 +6,6 @@ title: Jaehun Jeong # the website title (if blank, full name will be used instea
 first_name: Jaehun
 middle_name: 
 last_name: Jeong
-
-email: "abin1125@snu.ac.kr"
-linkedin_username: "stilljaehun7788"
-medium_username: "owlflaveredcarpet"
-scholar_userid: "HA7JSKwAAAAJ"
-github_username: "absolute-injury"
-
-cv_pdf: "resume.pdf"
-rss_icon: false
 contact_note: ""
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
