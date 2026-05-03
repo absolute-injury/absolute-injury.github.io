@@ -13,6 +13,8 @@ medium_username: "owlflaveredcarpet"
 scholar_userid: "HA7JSKwAAAAJ"
 github_username: "absolute-injury"
 
+cv_pdf: "resume.pdf"
+rss_icon: false
 contact_note: ""
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -648,24 +650,3 @@ third_party_libraries:
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
 
-# -----------------------------------------------------------------------------
-# Get external JSON data
-# -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
