@@ -6,7 +6,14 @@ title: Jaehun Jeong # the website title (if blank, full name will be used instea
 first_name: Jaehun
 middle_name: 
 last_name: Jeong
-contact_note: >
+
+email: "abin1125@snu.ac.kr"
+linkedin_username: "stilljaehun7788"
+medium_username: "owlflaveredcarpet"
+scholar_userid: "HA7JSKwAAAAJ"
+github_username: "absolute-injury"
+
+contact_note: ""
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Undergraduate Researcher in QML & Quantum Information Theory
