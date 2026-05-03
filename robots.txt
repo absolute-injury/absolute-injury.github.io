@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://absoluteinjury.github.io/sitemap.xml
+Sitemap: https://absolute-injury.github.io/sitemap.xml
