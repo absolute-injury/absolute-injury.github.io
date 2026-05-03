@@ -443,13 +443,6 @@ ninja.data = [{
           window.open("mailto:%61%62%69%6E%31%31%32%35@%73%6E%75.%61%63.%6B%72", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -462,13 +455,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/stilljaehun7788", "_blank");
-        },
-      },{
-        id: 'social-medium',
-        title: 'Medium',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://medium.com/@owlflaveredcarpet", "_blank");
         },
       },{
         id: 'social-github',
