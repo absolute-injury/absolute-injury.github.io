@@ -36,7 +36,8 @@ My primary research interests include:
 - **Theoretical Foundations**: Quantum Supremacy vs Classical Simulability, specifically in the context of QML
 - And other various **Interdisciplinary Approaches**: Applying tools and methodologies from machine learning, statistics, and computer science to address diverse challenges in quantum information theory 
 
-My research philosophy is rooted in **mathematical rigor**. I am deeply interested in developing quantum learning theory based on solid mathematical foundations and exploring the synergy between classical and quantum computing. Ultimately, my long-term goal is to establish **comprehensive theoretical foundations for Quantum Machine Learning (QML)**.
+My research philosophy is rooted in **mathematical rigor**. I am deeply interested in developing quantum learning theory based on solid mathematical foundations and exploring the synergy between classical and quantum computing. Ultimately, my long-term goal is to establish **comprehensive theoretical foundations for Quantum Machine Learning (QML)**.  
 
 *Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027.
-*Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027. During this time, I will continue to share my reviews on the latest QML papers on my Medium blog.*
+
+*Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027.
