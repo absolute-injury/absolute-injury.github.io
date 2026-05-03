@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "absolute-injury/absoluteinjury.github.io",
+    "data-repo": "absolute-injury/absolute-injury.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
