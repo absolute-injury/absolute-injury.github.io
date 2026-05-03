@@ -7,7 +7,11 @@ first_name: Jaehun
 middle_name: 
 last_name: Jeong
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  email: "abin1125@snu.ac.kr"
+  linkedin_username: "stilljaehun7788"
+  medium_username: "@owlflaveredcarpet"
+  scholar_userid: "HA7JSkwAAAAJ"
+  github_username: "absolute_injury"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Undergraduate Researcher in QML & Quantum Information Theory
 footer_text: >
