@@ -29,7 +29,8 @@ latest_posts:
 Hello! I am an undergraduate researcher at the College of Liberal Studies, Seoul National University (SNU), double majoring in Computer Science and
 Engineering and Statistics, with a minor in Mathematical Sciences.
 
-I am a member of Team QST under the supervision of Dr. Kabgyun Jeong. My research interests lie in quantum information theory and theoretical
-quantum computing, particularly the learning, inference, and certification of quantum states and dynamics.
+I am a member of Team QST under the supervision of Dr. Kabgyun Jeong. My research interests lie in quantum information theory and theoretical quantum computing, particularly the learning, inference, and certification of quantum states and dynamics.
 
-I am currently on leave from SNU while completing mandatory military service in the Republic of Korea Army (2025--2027).  
+I am currently on leave from SNU while completing mandatary military service in the Reuplic of Korea Army (2026--2027).
+
+
