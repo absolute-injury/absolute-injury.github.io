@@ -33,4 +33,6 @@ I am a member of Team QST under the supervision of Dr. Kabgyun Jeong. My researc
 
 I am currently on leave from SNU while completing mandatary military service in the Reuplic of Korea Army (2026--2027).
 
-
+<a href="/assets/pdf/26newCV.pdf" target="_blank">
+  Curriculum Vitae
+</a>
