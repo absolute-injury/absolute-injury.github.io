@@ -33,5 +33,3 @@ I am a member of Team QST under the supervision of Dr. Kabgyun Jeong. My researc
 quantum computing, particularly the learning, inference, and certification of quantum states and dynamics.
 
 I am currently on leave from SNU while completing mandatory military service in the Republic of Korea Army (2025--2027).  
-
-*Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027.
