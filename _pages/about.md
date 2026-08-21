@@ -26,16 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an undergraduate researcher at **College of Liberal Studies, Seoul National University (SNU)**, double majoring in Computer Science and Engineering & Statistics, with a minor in Mathematical Sciences. 
+Hello! I am an undergraduate researcher at the College of Liberal Studies, Seoul National University (SNU), double majoring in Computer Science and
+Engineering and Statistics, with a minor in Mathematical Sciences.
 
-I am currently working at **Team QST** under the supervision of Dr. Kabgyun Jeong. My research focuses on the intersection of Machine Learning, Statistics, and Quantum Information Theory.
+I am a member of Team QST under the supervision of Dr. Kabgyun Jeong. My research interests lie in quantum information theory and theoretical
+quantum computing, particularly the learning, inference, and certification of quantum states and dynamics.
 
-My primary research interests include:
-- **Expressivity and Trainability of Parameterized Quantum Circuits (PQC)** for QML
-- **Algorithmic Estimation of Quantum Information-Theoretic Measures** (Entropies & Distinguishability)
-- **Theoretical Foundations**: Quantum Supremacy vs Classical Simulability, specifically in the context of QML
-- And other various **Interdisciplinary Approaches**: Applying tools and methodologies from machine learning, statistics, and computer science to address diverse challenges in quantum information theory 
-
-My research philosophy is rooted in **mathematical rigor**. I am deeply interested in developing quantum learning theory based on solid mathematical foundations and exploring the synergy between classical and quantum computing. Ultimately, my long-term goal is to establish **comprehensive theoretical foundations for Quantum Machine Learning (QML)**.  
+I am currently on leave from SNU while completing mandatory military service in the Republic of Korea Army (2025--2027).  
 
 *Note: I will be serving my mandatory military service in the Republic of Korea Armed Forces from May 18, 2026, to November 17, 2027.
