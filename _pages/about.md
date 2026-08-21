@@ -31,7 +31,7 @@ Engineering and Statistics, with a minor in Mathematical Sciences.
 
 I am a member of Team QST under the supervision of Dr. Kabgyun Jeong. My research interests lie in quantum information theory and theoretical quantum computing, particularly the learning, inference, and certification of quantum states and dynamics.
 
-I am currently on leave from SNU while completing mandatary military service in the Reuplic of Korea Army (2026--2027).
+I am currently on leave from SNU while completing mandatary military service in the Republic of Korea Army (2026--2027).
 
 <a href="/assets/pdf/26newCV.pdf" target="_blank">
   Curriculum Vitae
